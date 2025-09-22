@@ -51,3 +51,8 @@ In this project I worked with a housing dataset to predict apartment prices in T
 ​The condition and year of construction.
 ​The distance from the city center.
 ​The availability of local infrastructure (schools, parks, stores, etc.).
+
+- Point 1  
+- Point 2  
+  - Sub point
+
