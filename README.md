@@ -51,3 +51,28 @@ RMSE Score: 29 — The average prediction error of our model is 29 units, showin
 ​The distance from the city center.
 ​The availability of local infrastructure (schools, parks, stores, etc.).
 
+---
+
+### Technologies Used
+
+* Python: Programming Language
+* Pandas & NumPy: For data manipulation
+* Matplotlib & Seaborn: For data visualization
+* Scikit-learn: For machine learning
+* Jupyter Notebook: Project environment
+
+---
+
+* [Kuvonchbek](https://github.com/Kuvonchbek21)
+
+---
+
+
+##  Let's Work Together
+If you need help with data analysis, visualization, or building ML models, feel free to reach out.  
+
+Contact me:  
+- Email: begimqulovquvonchbek53@gmail.com  
+- LinkedIn: [Kuvonchbek Begimkulov](https://linkedin.com/in/kuvonchbek-begimkulov)
+
+
