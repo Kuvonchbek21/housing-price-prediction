@@ -40,7 +40,7 @@ Pipelines,
 
 **Result**
 
-Best model - XGBoost
+Best model - XGBoost,
 ​R² Score: 72% — Our model explains 72% of the variance in house prices. This indicates a high level of accuracy.
 ​RMSE Score: 29 — The average prediction error of our model is 29 units, showing that its predictions are very close to the actual prices.
 ​Key Findings
