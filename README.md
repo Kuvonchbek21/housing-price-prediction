@@ -3,6 +3,7 @@
 In this project I worked with a housing dataset to predict apartment prices in Tashkent.
 
 The data used in this project is the [Dataset](https://raw.githubusercontent.com/anvarnarz/praktikum_datasets/main/housing_data_08-02-2021.csv)
+
 ---
 
 **Data Cleaning:**
