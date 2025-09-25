@@ -1,5 +1,7 @@
 # housing-price-prediction
+
 In this project I worked with a housing dataset to predict apartment prices in Tashkent.
+
 The data used in this project is the [Dataset](https://raw.githubusercontent.com/anvarnarz/praktikum_datasets/main/housing_data_08-02-2021.csv)
 ---
 
@@ -51,25 +53,9 @@ RMSE Score: 29 — The average prediction error of our model is 29 units, showin
 ​The distance from the city center.
 ​The availability of local infrastructure (schools, parks, stores, etc.).
 
----
-
-### Technologies Used
-
-* Python: Programming Language
-* Pandas & NumPy: For data manipulation
-* Matplotlib & Seaborn: For data visualization
-* Scikit-learn: For machine learning
-* Jupyter Notebook: Project environment
 
 ---
-
-* [Kuvonchbek](https://github.com/Kuvonchbek21)
-
----
-
-
-##  Let's Work Together
-If you need help with data analysis, visualization, or building ML models, feel free to reach out.  
+ 
 
 Contact me:  
 - Email: begimqulovquvonchbek53@gmail.com  
